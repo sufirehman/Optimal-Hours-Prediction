@@ -7,4 +7,3 @@ MarkupSafe==1.1.1
 numpy
 pandas==1.2.3
 scikit-learn
-Workzeug==2.1.2
